@@ -5,7 +5,5 @@ Greetings and welcome to my GitHub! This acts as a container for all of my proje
 
 ### Projects
 * Analysis
-  * PCAP
-   * [Redline Stealer PCAP Analysis](https://github.com/clarkross/redline-stealer-unit42)
-  * Email
-   * [Malicious Email: Fedex Impersonation (Simple- no header analysis)](https://github.com/clarkross/fedex-malicious-email)
+  * [Redline Stealer PCAP Analysis](https://github.com/clarkross/redline-stealer-unit42)
+  * [Malicious Email: Fedex Impersonation (Simple- no header analysis)](https://github.com/clarkross/fedex-malicious-email)
