@@ -4,9 +4,10 @@ Greetings and welcome to my GitHub! This acts as a container for all of my proje
 > This landing page will expand as I continue to put it together over the coming months. I'm currently in the process of building onto my skillset / etc.
 
 ### Projects
-* Homelab
+* Homelab Environment Projects
   * [Homelab Creation](https://github.com/clarkross/homelab-environment/)
-* Analysis
+  * [SSH Brute Force PCAP Analysis (Hydra)](https://github.com/clarkross/ssh-bruteforce-pcap-analysis)
+* Labs or Personal Projects
   * [Redline Stealer PCAP Analysis](https://github.com/clarkross/redline-stealer-unit42)
   * [Malicious Email: Fedex Impersonation (Simple- no header analysis)](https://github.com/clarkross/fedex-malicious-email)
-  * [SSH Brute Force PCAP Analysis (Hydra) -- Homelab Environment](https://github.com/clarkross/ssh-bruteforce-pcap-analysis)
+  
