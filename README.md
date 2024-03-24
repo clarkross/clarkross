@@ -10,4 +10,5 @@ Greetings and welcome to my GitHub! This acts as a container for all of my proje
 * Labs or Personal Projects
   * [Redline Stealer PCAP Analysis (Unit 42 Lab)](https://github.com/clarkross/redline-stealer-unit42)
   * [Malicious Email: Fedex Impersonation (Simple- no header analysis)](https://github.com/clarkross/fedex-malicious-email)
+  * [DarkCrystal Rat Static Strings Analysis](https://github.com/clarkross/dc-rat-strings-analysis)
   
